@@ -4,8 +4,6 @@
 
 #### TODO NEXT
 
-- try absolutely positioning footer so I don't have to account for line breaks
-
 #### TODO LATER
 
 ##### Features
@@ -17,6 +15,10 @@
 ##### Style
 
 #### DONE
+
+_0.3.1_
+
+- absolutely position footer so bottom padding doesn't have to account for line breaks
 
 _0.3.0_
 
