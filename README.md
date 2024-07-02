@@ -4,6 +4,9 @@
 
 #### TODO NEXT
 
+- add favicon
+- add share preview
+
 #### TODO LATER
 
 ##### Features
@@ -13,6 +16,12 @@
 ##### Style
 
 #### DONE
+
+_0.1.0_
+
+- build home
+- style home
+- make home responsive
 
 _0.0.0_
 
