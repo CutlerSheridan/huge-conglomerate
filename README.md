@@ -4,8 +4,7 @@
 
 #### TODO NEXT
 
-- add favicon
-- add share preview
+- see if we should link to Not Celebrity Vodka in footer
 
 #### TODO LATER
 
@@ -16,6 +15,11 @@
 ##### Style
 
 #### DONE
+
+_0.2.0_
+
+- add favicon
+- add share preview
 
 _0.1.0_
 
