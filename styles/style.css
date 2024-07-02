@@ -17,24 +17,27 @@ body {
   height: 100%;
   width: 100%;
   font-size: 2rem;
-  font-family: Arial, Helvetica, sans-serif;
   color: var(--clr-2);
 }
-/* .content-wrapper {
-  height: calc(100svh - 18rem);
-} */
+.content-wrapper {
+  height: calc(100svh - 3.5rem);
+  padding-top: 36vh;
+}
 .logo-wrapper {
-  margin: 33vh auto;
-  width: min(98vw, 45rem);
+  margin: auto;
+  width: min(90vw, 45rem);
 }
 .logo-wrapper > img {
   width: 100%;
 }
-/* footer {
-  margin: auto;
-  font-size: 1.4rem;
+footer {
+  font-size: 1.1rem;
   text-align: center;
+  font-family: 'Gill Sans';
+  font-weight: 100;
+  letter-spacing: 0.1rem;
+  text-transform: uppercase;
 }
 footer > a {
   color: var(--clr-2);
-} */
+}

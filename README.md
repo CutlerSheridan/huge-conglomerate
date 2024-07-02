@@ -4,17 +4,24 @@
 
 #### TODO NEXT
 
-- see if we should link to Not Celebrity Vodka in footer
+- try absolutely positioning footer so I don't have to account for line breaks
 
 #### TODO LATER
 
 ##### Features
+
+- index with google
 
 ##### Behavior
 
 ##### Style
 
 #### DONE
+
+_0.3.0_
+
+- add footer
+- crop and reposition logo
 
 _0.2.0_
 
