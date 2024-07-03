@@ -16,6 +16,12 @@
 
 #### DONE
 
+_1.0.0_
+
+- refactor content into flexbox for cleaner positioning
+- change footer text
+- add share preview description
+
 _0.3.1_
 
 - absolutely position footer so bottom padding doesn't have to account for line breaks

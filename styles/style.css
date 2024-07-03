@@ -18,29 +18,34 @@ body {
   width: 100%;
   font-size: 2rem;
   color: var(--clr-2);
+  font-family: 'Gill Sans';
+  font-weight: 100;
+  letter-spacing: 0.1rem;
+  text-transform: uppercase;
 }
-.content-wrapper {
-  padding-top: 36vh;
+a {
+  color: var(--clr-2);
 }
+
+.home-flexWrapper {
+  padding-bottom: 1.65rem;
+  height: 100svh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
 .logo-wrapper {
   margin: auto;
+  margin-top: -2rem;
   width: min(90vw, 45rem);
 }
 .logo-wrapper > img {
   width: 100%;
 }
 footer {
-  position: absolute;
-  bottom: 0;
+  padding: 0 0.5rem;
   width: 100%;
-  margin-bottom: 1rem;
   font-size: 1.1rem;
   text-align: center;
-  font-family: 'Gill Sans';
-  font-weight: 100;
-  letter-spacing: 0.1rem;
-  text-transform: uppercase;
-}
-footer > a {
-  color: var(--clr-2);
 }
